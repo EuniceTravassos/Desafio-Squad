@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0; 
+   }
+
+body{
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+}
+
+.navegacao ul li {
+    display:inline;
+    padding: 70px;
+    
+}
+
+.navegacao ul {
+    margin-left: 100px;
+    
+}
+
+.navegacao {
+    background-color: rgb(12, 161, 147);
+    padding: 10px;
+}
+
+.navegacao ul li a {
+    text-decoration: none;
+    color: rgb(236, 236, 28);
+
+}
+
+.navegacao ul li a:hover{
+    color: black;
+}
+
+.zumba {
+    width: 100%;
+    
+}
+
+.exercicios {
+    width: 100%; 
+   
+
+}
